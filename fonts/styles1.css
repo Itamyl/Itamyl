@@ -1,0 +1,71 @@
+/* styles.css */
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: black;
+    color: #00e5ee;
+    padding: 10px;
+    text-align: center;
+}
+
+h1 {
+    font-weight: bold;
+    margin: 0;
+}
+
+nav {
+    background-color: black;
+    color: #00e5ee;
+    padding: 5px;
+    text-align: center;
+}
+
+nav a {
+    color: #00e5ee;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: bold;
+}
+
+/* Koyu çizgi eklemek için yeni stil */
+nav:after {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 2px;
+    background-color: #696969;
+    margin-top: 5px;
+}
+
+.coming-soon {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+}
+
+.coming-soon h2 {
+    color: #483d8b;
+    font-size: 36px;
+}
+
+/* styles.css */
+
+
+
+.back-link {
+    color: #00e5ee;
+    text-decoration: none;
+    margin-top: 10px;
+    font-weight: bold;
+    display: block;
+    text-align: center;
+}
