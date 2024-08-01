@@ -20,6 +20,6 @@
     <img src="https://img.shields.io/twitter/follow/i_i_nashu?style=social" alt="twitter logo" height="25" style="max-width: 100%;">
   </a>
   <a href="https://www.linkedin.com/in/burak-can-adalan-176287320/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/LinkedIn_icon.svg" alt="linkedin logo" height="25" style="max-width: 100%;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/LinkedIn_icon.svg" alt="linkedin " height="25" style="max-width: 100%;">
   </a>
 </p>
