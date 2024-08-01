@@ -14,7 +14,7 @@
 <h3 align="left">Contact:</h3>
 <p align="left">
   <a href="mailto:burakcanadalan@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://camo.githubusercontent.com/1af4e32e87ead12ccca9c835f529bbc258c72700ed6212cee2a41adc5274fbba/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d476d61696c266c6f676f3d676d61696c266c6162656c3d26636f6c6f723d443134383336266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765" height="25" alt="gmail logo" data-canonical-src="https://img.shields.io/static/v1?message=Gmail&amp;logo=gmail&amp;label=&amp;color=D14836&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" style="max-width: 100%;">
+    <img src="https://camo.githubusercontent.com/1af4e32e87ead12ccca9c835f529bbc258c72700ed6212cee2a41adc5274fbba/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d476d61696c266c6f676f3d676d61696c266c6162656c3d26636f6c6f723d443134383336266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765" height="25" alt="gmail logo" style="max-width: 100%;">
   </a>
   <a href="https://twitter.com/i_i_nashu" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/X_logo_%28Twitter%29.svg" alt="twitter logo" height="25" style="max-width: 100%;">
