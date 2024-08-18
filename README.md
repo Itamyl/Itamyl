@@ -1,4 +1,4 @@
-## Hi 👋, I'm Burak Can from Turkiye.
+## Hi 👋, I'm Burak from Turkiye.
 
 🔭 I’m currently working on UE5 basic system with BP. 
 
