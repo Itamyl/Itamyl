@@ -17,6 +17,5 @@
 Mail >> burakcanadalan@gmail.com
 
 Linkedin >> https://www.linkedin.com/in/burak-can-adalan-176287320/
-
 X >> https://x.com/bandainamcoTR
 
